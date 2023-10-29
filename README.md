@@ -5,4 +5,4 @@ Wireframe de alta fidelidade: https://www.figma.com/file/AsyqBSFvNkSN8ZIIzuKlQ2/
 Link do Projeto do site Clínica Estética: https://github.com/joaopedrosantanamotalol/Projeto-Clinica-Estetica.git
 
 Colaboradores:
-(e211mtecdsfatec@etec.sp.gov.br) (e211ccdams@etec.sp.gov.br)
+(e211mtecdsfatec@etec.sp.gov.br) & (e211ccdams@etec.sp.gov.br)
