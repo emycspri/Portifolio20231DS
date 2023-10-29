@@ -1,5 +1,1 @@
-![imagem_2023-10-29_115034668](https://github.com/emycspri/Portifolio20231DS/assets/127248691/afbb1f26-7942-43b4-a7dd-4e47c335a120)
-![image](https://github.com/emycspri/Portifolio20231DS/assets/127248691/4b73cbee-d74e-4a98-bb15-d198f1013bac)
-![image](https://github.com/emycspri/Portifolio20231DS/assets/127248691/0e08bfcb-847d-4a24-9a62-5d6466a61c96)
-![image](https://github.com/emycspri/Portifolio20231DS/assets/127248691/ded573d4-5795-498f-834c-73ed21ec10c2)
-![image](https://github.com/emycspri/Portifolio20231DS/assets/127248691/4da1c051-506f-4679-b00e-f8cdcd07fbed)
+
