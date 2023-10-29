@@ -4,4 +4,6 @@
 ![image](https://github.com/emycspri/Portifolio20231DS/assets/127248691/1fe146b5-941a-488c-8681-888011155f63)
 ![image](https://github.com/emycspri/Portifolio20231DS/assets/127248691/591e3087-a8aa-48c0-97ff-9237010ccd77)
 ![image](https://github.com/emycspri/Portifolio20231DS/assets/127248691/b9de2d3c-b1e1-4a0e-af15-57a693cb1d14)
-
+![image](https://github.com/emycspri/Portifolio20231DS/assets/127248691/f7df5569-9da9-46bb-a399-87f2852ed0c6)
+![image](https://github.com/emycspri/Portifolio20231DS/assets/127248691/8ea3ca5d-cb20-4739-b755-5cc3b7286b8d)
+![image](https://github.com/emycspri/Portifolio20231DS/assets/127248691/b36d8a01-85ea-477f-9a0b-090c7491e906)
