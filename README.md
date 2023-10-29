@@ -7,8 +7,4 @@
 ![image](https://github.com/emycspri/Portifolio20231DS/assets/127248691/2a2c7181-13e8-44d0-a5dc-633d3d9d8f0d)
 ![image](https://github.com/emycspri/Portifolio20231DS/assets/127248691/cc753e1c-5152-4814-a896-d7b2c6361250)
 ![image](https://github.com/emycspri/Portifolio20231DS/assets/127248691/9f375585-0644-4a00-83f3-cbb7f6fea06f)
-![imagem_2023-10-29_115034668](https://github.com/emycspri/Portifolio20231DS/assets/127248691/afbb1f26-7942-43b4-a7dd-4e47c335a120)
-![image](https://github.com/emycspri/Portifolio20231DS/assets/127248691/4b73cbee-d74e-4a98-bb15-d198f1013bac)
-![image](https://github.com/emycspri/Portifolio20231DS/assets/127248691/0e08bfcb-847d-4a24-9a62-5d6466a61c96)
-![image](https://github.com/emycspri/Portifolio20231DS/assets/127248691/ded573d4-5795-498f-834c-73ed21ec10c2)
-![image](https://github.com/emycspri/Portifolio20231DS/assets/127248691/4da1c051-506f-4679-b00e-f8cdcd07fbed)
+
