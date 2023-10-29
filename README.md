@@ -6,3 +6,5 @@ Link do Projeto do site Clínica Estética: https://github.com/joaopedrosantanam
 
 Colaboradores:
 (e211mtecdsfatec@etec.sp.gov.br) & (e211ccdams@etec.sp.gov.br)
+
+Vídeo em inglês: https://drive.google.com/file/d/1QUykZdUezhwozfi4niJbswagCOz2O_Qn/view?usp=drive_link
